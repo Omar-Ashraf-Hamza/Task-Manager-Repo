@@ -17,3 +17,8 @@ void RemoveTask()
 {
 	cout << "Task removed successfully." << endl;
 }
+
+void DeleteTask()
+{
+	cout << "Task deleted successfully." << endl;
+}

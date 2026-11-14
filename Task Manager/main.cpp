@@ -10,7 +10,7 @@ int main()
     ShowTasks();
     AddTask();
 	RemoveTask();
+	DeleteTask();
     
-
     return 0;
 }
